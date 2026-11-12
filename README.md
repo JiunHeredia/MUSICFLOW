@@ -21,4 +21,4 @@ Android Studio · Kotlin · XML · PHP (API REST) · MySQL · XAMPP · JSON
 Registro e inicio de sesión · catálogo y búsqueda · reproductor · playlists · favoritos · historial · recomendaciones
 
 ## Estado
-🚧 En desarrollo.
+Culminado.
